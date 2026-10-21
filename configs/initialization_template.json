@@ -1,0 +1,22 @@
+{
+  "_comment": "Configuration schema only. Values below are placeholders, NOT the paper's experimental settings. Replace nulls with valid parameters before running a chaotic or hyperchaotic mode.",
+  "target_std": null,
+  "dt": null,
+  "burn_in": null,
+  "hc_r": null,
+  "hc_state": null,
+  "chen_state": null,
+  "hc_coefficients": {
+    "a": null,
+    "b": null,
+    "c": null,
+    "d": null,
+    "e": null,
+    "f": null
+  },
+  "chen_coefficients": {
+    "a": null,
+    "b": null,
+    "c": null
+  }
+}
