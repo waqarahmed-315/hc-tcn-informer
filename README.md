@@ -15,7 +15,7 @@ configurations, per-run manifests, datasets, and trained checkpoints are not inc
 - `data/`, `utils/` — ETT data loading and utilities
 - `exp/` — training and evaluation pipeline
 - `main_informer.py` — training command-line entry point
-- `configs/example_training.json` — **small illustrative example**; not paper settings
+- `configs/example_training.json` — **small illustrative example**
 - `configs/initialization_template.json` — required fields for dynamic-source initialization;
   `null` placeholders must be replaced with suitable values
 - `scripts/smoke_test.py` — forward-pass test without datasets
@@ -39,7 +39,7 @@ Download ETT CSV data from the [ETDataset repository](https://github.com/zhouhao
 and put `ETTm1.csv` (or other ETT datasets) under `data/ETT/`.
 CSV files and trained checkpoints are excluded from the repository.
 
-## Example training (NOT the paper results)
+## Example training 
 
 ```powershell
 .\.venv\Scripts\python.exe main_informer.py --config configs/example_training.json
