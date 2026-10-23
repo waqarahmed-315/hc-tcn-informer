@@ -1,4 +1,4 @@
-# Dual-Scale Temporal Learning TCN-Informer— Reference Implementation
+# Dual-Scale Temporal Learning with Hyperchaotic and Chaootic TCN-Informer
 
 This is a **reference implementation** of a hybrid TCN–Informer model and
 sequence-derived initialization from 3D Chen and 4D hyperchaotic systems.
