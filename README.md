@@ -82,7 +82,9 @@ If you use this repository, its implementation, or the proposed chaotic and hype
 
 **Ahmed, W., Akhtar, M. W., Bashir, Z., & Malik, M. G. A. (2026).** Chaotic and hyperchaotic weight initialization with dual-branch temporal learning in informer for long-term time-series forecasting. *Evolutionary Intelligence*.
 
-https://doi.org/10.1007/s12065-026-01291-3
+**DOI:** https://doi.org/10.1007/s12065-026-01291-3
+
+**Read the full-text article:** [Springer Nature SharedIt – Read Online](https://rdcu.be/rdZ8T6TxR3za)
 
 ### BibTeX
 
