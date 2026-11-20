@@ -1,0 +1,19 @@
+
+cff-version: 1.2.0
+message: "If you use this repository in your research, please cite the following paper."
+title: "Chaotic and hyperchaotic weight initialization with dual-branch temporal learning in informer for long-term time-series forecasting"
+authors:
+  - family-names: Ahmed
+    given-names: Waqar
+  - family-names: Akhtar
+    given-names: Muhammad Waseem
+  - family-names: Bashir
+    given-names: Zia
+  - family-names: Malik
+    given-names: M. G. Abbas
+journal: Evolutionary Intelligence
+year: 2026
+volume: 20
+issue: 1
+doi: "10.1007/s12065-026-01291-3"
+url: "https://doi.org/10.1007/s12065-026-01291-3"
