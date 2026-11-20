@@ -75,3 +75,25 @@ those materials, supply them through an approved supplementary or reviewer-acces
 
 No software license is included at this stage. Users should seek permission for
 reuse beyond rights automatically granted by law.
+
+## Citation
+
+If you use this repository, its implementation, or the proposed chaotic and hyperchaotic initialization approach in your research, please cite our paper:
+
+**Ahmed, W., Akhtar, M. W., Bashir, Z., & Malik, M. G. A. (2026).** Chaotic and hyperchaotic weight initialization with dual-branch temporal learning in informer for long-term time-series forecasting. *Evolutionary Intelligence*.
+
+https://doi.org/10.1007/s12065-026-01291-3
+
+### BibTeX
+
+```bibtex
+@article{Ahmed2026,
+  author  = {Ahmed, Waqar and Akhtar, Muhammad Waseem and Bashir, Zia and Malik, M. G. Abbas},
+  title   = {Chaotic and hyperchaotic weight initialization with dual-branch temporal learning in informer for long-term time-series forecasting},
+  journal = {Evolutionary Intelligence},
+  year    = {2026},
+  volume  = {20},
+  number  = {1},
+  doi     = {10.1007/s12065-026-01291-3}
+}
+```
