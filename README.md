@@ -1,4 +1,4 @@
-# Dual-Scale Temporal Learning with Hyperchaotic and Chaootic TCN-Informer
+# Chaotic and hyperchaotic weight initialization with dual-branch temporal learning in informer for long-term time-series forecasting
 
 This is a **reference implementation** of a hybrid TCN–Informer model and
 sequence-derived initialization from 3D Chen and 4D hyperchaotic systems.
